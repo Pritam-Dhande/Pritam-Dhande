@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 
 - 👋 Hi, I’m @Pritam-Dhande
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Web Development (MERN STACK)
