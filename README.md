@@ -7,7 +7,7 @@
 
 I'm
 Full Stack Web Developer - 
-I have several years experience in digital marketing and social media marketing. My skills are Search Engine Optimization (SEO), Facebook Ads, Content Marketing etc. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with canva, figma), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB,Mysql), I am working on this project as a freelancer. Now, I want to do some great projects. If you need any help to promote your business or any work or project please message me..
+I have several years experience in digital marketing and social media marketing. My skills are Search Engine Optimization (SEO), Facebook Ads, Content Marketing etc. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with canva, figma), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB,Mysql), I am working on this project as a freelancer. Now, I want to do some great projects. If you need any help to promote your business or any work or project please message me.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Pritam-Dhande/count.svg)
