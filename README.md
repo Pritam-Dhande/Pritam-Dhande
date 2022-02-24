@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/channel/UCdCAhhoaLkh0wQ6Glu0JR9Q)
-[![Linkedin Badge](https://img.shields.io/badge/-Pritam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-Pritam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pritam-dhande-17374b1a0/)](https://www.linkedin.com/in/aakash--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Pritam-green)](https://https://wardhatourism.in/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Pritam-yellow)](https://stackoverflow.com/users/18280090/pritam-dhande)
 
